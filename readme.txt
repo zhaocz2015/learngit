@@ -5,3 +5,5 @@ Git has a mutable index called stage.
 handle Conflict Code
 fix conflict code
 --no-ff -m "marge with no-ff"
+merge some thing
+
