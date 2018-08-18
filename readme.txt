@@ -7,4 +7,4 @@ fix conflict code
 --no-ff -m "marge with no-ff"
 merge some thing
 branch 001
-
+branch 002
