@@ -8,3 +8,5 @@ fix conflict code
 merge some thing
 branch 001
 branch 002
+
+stash ---- 0001
