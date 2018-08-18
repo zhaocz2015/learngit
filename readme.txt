@@ -10,3 +10,4 @@ branch 001
 branch 002
 
 stash ---- 0001
+stash ---- 00002
